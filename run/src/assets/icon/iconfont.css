@@ -1,0 +1,25 @@
+@font-face {font-family: "fontfamily";
+  src: url('iconfont.eot?t=1599298097983'); /* IE9 */
+  src: url('iconfont.eot?t=1599298097983#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOQAAsAAAAAB3QAAANBAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCOIIqATYCJAMMCwgABCAFhQUHQhuUBsiemjwNw7j9bTTmUHV+gRyIRxCtldUzczT7DA4wBBY8AKi4qHcBBaRigZyJkPGA87+uBn02QZFuQmUiG/X7vg3RldccQUSwbbr71n6DiKZBqqglleVu9mzln1gj0+k0Ho1WeOSf6HZ5+gkm5+nCbrDaIqmVpIJLu8/Hwm3DMD7PMdNFgY+/DQC6aG3RKTywgXRrC80KaO+A8IaxKy/iOIFqAR98dPvwBKoVxrhA3HMsBtUpnVITG7pCu2RpEa+hQjc9wfvAK//78cd4dElamTH1+N0tE1a/f39fo4ADNy4B+OPpwVaRsQFSiKulxvPKQvcGVFVk5fWhbUVIY9n+OT5PVbRX+o+XiDYjug+sQE1yUnybRfDjEhcykUe30cFN4DGgjj1JVqbq++bLS//905dOUqh9X6osZ+feGafr4EZz9s11cXF6fn5yeXl2dXW6fo6D17R1NTD8qq2Lk0+A5vMEpQ9Ggj2dEfpwMZp4+J99EYYMXoTauPS8NDYABVt0cx87b/vH8PeKb/j6EzyJxHXe7BdPWnDhzZhHmwsppiWuEmeaXQE2UZc4YWKaXi0WTxxNmC0p+oxG3G6Ao3i6rneCohuc8n/IZoGyh8aFXYC8ZyFUDFJ1AxVnzHK4wP7fPnJHlNPdr4jcrXifIpHhd/Cw5VEHSv8A8tkywt/4je032TU/TvlfTQv4tl0d8zVFOzOke66m4N3zWzYUVQnLi8yzebop250IkVBVuTceDyMe+yvGW0cTqvEYSccismqJWKg70dI4jLbqGKp1ltWNURVlovSwpg0QxiwiGfAV2ZgbYqF+omUiAm1jMYnqbPC2bCzFQ2IIiEVk4mOOjqEVt7RRrfMaZ9IR+RFZsWBBpiB85YyC0NEKx4TiAt8OKQrGmhEm1ngUceSBlrhdfxoJobEQaJeMaNiOosL8iChW9qBhQ0uodUSAMBFiQiE5lGTQFO5aI7Xh3+cYySHkjhBLTGCC2rL54DMkEEJueedIQkjcirgjUy1Lri09K2EZl2s9GsUENAmZxxhEBEFDqfJBLmKIDEv0cBbME5mtYm1lw7tWyGfdBpUxNUeKHEX/zTgMHUXOvCHJVHWKhWGqAxMAAAAA') format('woff2'),
+  url('iconfont.woff?t=1599298097983') format('woff'),
+  url('iconfont.ttf?t=1599298097983') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1599298097983#fontfamily') format('svg'); /* iOS 4.1- */
+}
+
+.fontfamily {
+  font-family: "fontfamily" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-nowfontbussiness-man:before {
+  content: "\e6ef";
+}
+
+.el-icon-nowfontpassword:before {
+  content: "\e75b";
+}
+
